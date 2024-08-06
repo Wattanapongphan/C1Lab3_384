@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 096f0ee6432801e44b5cfdf2de5abce1
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1SG
+    second: {fileID: 2100000, guid: 8417b6580fc17c540903871afad35da1, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: M4A1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca3
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_carbine
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca9
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca1
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca17
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca22
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca4
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca5
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca6
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca36
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca8
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca48
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca10
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca11
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca12
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca13
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca14
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca15
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca16
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca18
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca19
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca20
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca21
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca47
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca23
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca24
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca25
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca26
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca27
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca28
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca29
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca30
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca31
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca32
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca33
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca34
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca35
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca2
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca37
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca38
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca39
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca40
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca41
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca42
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca43
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca44
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca45
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca46
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder1
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube1
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca49
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca50
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca51
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca52
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca53
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca54
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca55
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca56
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca57
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca58
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca59
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca60
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca61
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca62
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca63
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca64
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca65
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca66
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca67
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca68
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca69
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca70
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca71
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca72
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca73
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M4_ca7
+      parentName: M4A1(Clone)
+      position: {x: -0, y: 0, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
